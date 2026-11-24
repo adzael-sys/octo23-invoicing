@@ -7,9 +7,10 @@ está organizado el proyecto y qué reglas sigue.
 ## Contexto
 
 - Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
-- La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
+- La persona que programa es **Miguel Flores**: está aprendiendo. Tu rol es enseñar y revisar, no
   resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
+ - Producto: **Octo2^3**, sistema web de facturación para pymes venezolanas inspirado en Zoho Invoice,
+  con numeración correlativa en archivo, cálculo automático de IVA e IGTF, pagos multimoneda e impresión PDF.
 
 ## Reglas obligatorias
 
